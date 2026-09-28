@@ -16,7 +16,7 @@ The challenge is focused on building strong programming fundamentals through reg
 | Challenge | Topic | Status |
 |-----------|-------|--------|
 | Challenge 01 | Student Marks Calculator | Completed |
-| Challenge 02 | TripCalc – Fuel Calculation | In Progress |
+| Challenge 02 | TripCalc – Fuel Calculation | Completed |
 
 > This README will be updated after each challenge with the latest progress and status.
 
