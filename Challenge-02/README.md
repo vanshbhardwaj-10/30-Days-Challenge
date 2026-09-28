@@ -1,22 +1,17 @@
-#ALGORITHM
+#Algorithm — TripCalc
 
-Start
+1.Start
 
-Read the total distance to be travelled
+2.Read the total distance.
 
-Read the vehicle's mileage
+3.Read the vehicle's mileage.
 
-Read the current fuel price per litre
+4.Read the fuel price per litre.
 
-Calculate the fuel required using:
+5.Calculate the fuel required.
 
-Fuel Required = Distance / Mileage
+6.Calculate the total fuel cost.
 
-Calculate the total fuel cost using:
+7.Display the fuel required and total fuel cost.
 
-Total Fuel Cost = Fuel Required × Fuel Price
-
-Display the fuel required and total fuel cost
-
-Stop
-
+8.Stop.
