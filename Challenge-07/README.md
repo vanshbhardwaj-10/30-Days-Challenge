@@ -1,6 +1,6 @@
 # Algorithm – TICKET TRACE
 
-1. Start the program.
+1. Start
 
 2. Enter the number of tickets N. If N is less than 5 or greater than 15, ask for the input again.
 
@@ -22,4 +22,4 @@
 
 10. Find and display all the positions where the target ID appears. Also display its total occurrence count.
 
-11. Stop the program.
+11. Stop.
