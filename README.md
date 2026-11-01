@@ -22,6 +22,7 @@ The challenge is focused on building strong programming fundamentals through reg
 | Challenge 05 | EQUATION SOLVER+ | Completed |
 | Challenge 06 | PATTERN DETECTIVE | Completed |
 | Challenge 07 | TICKET TRACE – Ticket ID Analysis | Completed |
+| Challenge 08 | GRIDWATCH – Risk Grid Analysis | Completed |
 
 > This README will be updated after each challenge with the latest progress and status.
 
