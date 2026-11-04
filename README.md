@@ -23,6 +23,7 @@ The challenge is focused on building strong programming fundamentals through reg
 | Challenge 06 | PATTERN DETECTIVE | Completed |
 | Challenge 07 | TICKET TRACE – Ticket ID Analysis | Completed |
 | Challenge 08 | GRIDWATCH – Risk Grid Analysis | Completed |
+| Challenge 09 | SEATSMART – Seat Reservation System | Completed |
 
 > This README will be updated after each challenge with the latest progress and status.
 
